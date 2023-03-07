@@ -6,6 +6,6 @@
 > * This project **can't be done in Sandboxes**-it can be done only in your local computer.
 # Resources
 #### **Read or watch**:
-> * [link] (https://en.wikipedia.org/wiki/Virtual_machine "Virtual Machine")*
-> * [man uname] (https://linux.die.net/man/1/uname "man uname")
+> * [link](https://en.wikipedia.org/wiki/Virtual_machine "Virtual Machine")
+> * [man uname](https://linux.die.net/man/1/uname "man uname")
    
